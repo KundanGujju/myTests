@@ -11,3 +11,4 @@ Feature: Techinal test from Capgemini
     And I logout
     And I login into application
     Then I should see the expensive dress in the cart
+
