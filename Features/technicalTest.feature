@@ -1,5 +1,4 @@
-Feature: Techinal test from Capgemini
-  As a user, I would like to register and ensure that the purchased item is in Cart
+Feature: Techinal test from Capgemini. As a user, I would like to register and ensure that the purchased item is in Cart
 
   Scenario: Register successfully as New user
     Given I am on Home page
