@@ -18,5 +18,4 @@ public class CheckoutPage {
 	public boolean prodIsPresent(){
 		return prodDesc.isDisplayed();
 	}
-
 }
